@@ -5,9 +5,9 @@ Repositorio del equipo para el Workshop 2 de la materia de Machine Learning. Se 
 
 ## Integrantes
 
-1. Jacobo Pava Quintero
-2. Alexander Vargas
-3. Cristian Cabarcas López
+1. Alexander Vargas
+2. Cristian Cabarcas López
+3. Jacobo Pava Quintero
 4. Samuel Herrera Galvis
 
 ## Estructura del repositorio
